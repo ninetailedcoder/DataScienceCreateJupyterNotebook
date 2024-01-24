@@ -1,4 +1,4 @@
-# IBM Data Science certificare lab 1 
+# IBM Data Science certificate lab 1 
 
-### Objecive
+### Objective
 Create your first jupyter Notebook
